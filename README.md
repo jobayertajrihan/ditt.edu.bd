@@ -1,1 +1,1 @@
-# ditt.edu.bd
+# ditt
